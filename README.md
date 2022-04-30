@@ -1,4 +1,18 @@
-# Godot-3D-Template
-Godot Template for 3D Games
+# Project 06-3D RPG
 
-Includes Keyboard mappings and Global.gd
+## To play
+
+## Implementation
+
+## References
+
+ None
+ 
+## Future Development
+
+None
+
+## Created by 
+
+Megan Marsh
+```
